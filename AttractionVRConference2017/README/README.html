@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>VR Template</title>
+  </head>
+  <body>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <h1 align="center"><font face="Helvetica, Arial, sans-serif">VR
+        Template</font></h1>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <h4 align="center"><font face="Helvetica, Arial, sans-serif">Version
+        7/1/2016</font></h4>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p align="center"><font face="Helvetica, Arial, sans-serif">(C) 2016
+        Jason Leigh, Laboratory for Advanced Visualization &amp;
+        Applications, University of Hawai'i at Manoa<br>
+      </font> </p>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p><font face="Helvetica, Arial, sans-serif">The VR template is a
+        simple "Hello World" program to get started developing for
+        SteamVR using Unity3D. It is primarily targeted for the HTC Vive
+        but it should work with Oculus once they release their 3D
+        controllers.<br>
+      </font> </p>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p><font face="Helvetica, Arial, sans-serif">To use it simply open
+        the folder from within Unity3D. It will open up to a scene that
+        appears somewhat like what you see below.<br>
+        The positioning of some of the windows will be different
+        depending on how you have configured your Unity work space.<br>
+      </font> </p>
+    <font face="Helvetica, Arial, sans-serif"> <img alt=""
+        src="img1.png" height="535" width="1024"><br>
+      <br>
+    </font>
+    <h3><font face="Helvetica, Arial, sans-serif">Running the App</font></h3>
+    <font face="Helvetica, Arial, sans-serif"> To run it, simple PLAY
+      your Unity app.<br>
+      <br>
+      Once started you can do the following:<br>
+    </font>
+    <ul>
+      <li><font face="Helvetica, Arial, sans-serif"><b>Navigation</b>:
+          You can navigate around the space by using your "left" wand
+          controller (on the HTC Vive) and using the DPAD. Lightly
+          touching the DPAD forward, will move you forward, touching
+          back will move you backward. The further out at the extremity
+          of the DPAD you touch the faster the walk speed. The DIRECTION
+          of walk is determined by your wand's VECTOR- i.e. the
+          direction you are pointing the wand. To TURN in the
+          environment, you TURN your physical body. This technique for
+          navigation is not familiar to those raised on first-person
+          shooters but it is a "standard" among VR pioneers who
+          developed applications (in the early 1990s) before
+          first-person-shooters came out. The physical turning of the
+          body is designed to help reduce nausea problems that is
+          especially prevalent in head-mounted displays. When walking
+          around you are also subject to gravity, which means you can
+          potentially walk up inclines and fall off. Navigation uses
+          Unity's standard physics constraints&nbsp; so when you
+          encounter some objects you may topple them over, whereas some
+          objects (kinematic) will not let you walk through them at all.
+          Lastly, to reset your position back to the center of the
+          world, press the TRIGGER beneath your index finger.<br>
+        </font> </li>
+      <li><font face="Helvetica, Arial, sans-serif"><b>Object
+            Manipulatio</b><b>n</b>: With the "right" wand controller
+          (the one shown with the orange sphere around it), you can pick
+          up objects in the scene and move them around. To pick
+          something up press and hold the TRIGGER on the controller. To
+          release the object release the trigger. Some objects will fall
+          under gravity while some objects are set up to be kinematic,
+          meaning they will freeze in place once you let go. No you
+          cannot throw an object. That's homework for you to work on.<br>
+        </font></li>
+      <li><font face="Helvetica, Arial, sans-serif"><b>360 Image Capture</b>:
+          To take a 360 photo of your VR world (such as the one below),
+          press the O key. If you want to snapshot something that is
+          also stereoscopic 3D, press the P key. Lastly if you want to
+          do successive snaps to try to make a movie, press the I key.
+          Press the I key again to stop recording. Note: capturing
+          individual frames for a movie is extremely slow. The captured
+          images are stored in a folder called LSCaptureFiles.
+          Additional instructions on what to do with the files can be
+          found <a href="CaptureInstructions.pdf">here</a>. In a <a
+href="https://www.facebook.com/notes/eric-cheng/editing-360-photos-injecting-metadata/10156930564975277/">
+            nutshell </a>you<a href="http://thexifer.net/"> modify the
+            exif tag</a> on the files so that you can upload them to
+          facebook for viewing as a 360 "VR" panorama (set MAKE to
+          RICOH, set MODEL to RICOH THETA S). Or you can string the
+          images up into a movie file that can be loaded for viewing in
+          <a
+            href="https://support.google.com/youtube/answer/6178631?hl=en">Youtube</a>.
+          The picture below has already been tagged. You can try
+          uploading the jpg to facebook.<br>
+        </font></li>
+    </ul>
+    <div align="center"><img alt="" src="test.jpg" height="340"
+        width="680"><br>
+      <font face="Helvetica, Arial, sans-serif"><i>360 image snapshot
+          (in equirectangular (mercator) projection)<br>
+          <br>
+        </i></font> </div>
+    <ul>
+    </ul>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <h3><font face="Helvetica, Arial, sans-serif">The Internals</font></h3>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p><font face="Helvetica, Arial, sans-serif">This "hello world" VR
+        Template program already has the SteamVR plugin installed. It is
+        in the SteamVR asset folder. The package is also already
+        incorporated into the demo scene. They appear under [CameraRig].
+        This <a
+href="https://www.youtube.com/watch?v=rfcX07uiQmA&amp;list=PLnaniYoE3lPtwmwlRRKUtxT9fF7I3UJfO">video
+
+
+
+
+          series</a> is worth watching as it will give you an
+        understanding of the basic steps needed to work with SteamVR.
+        Note: in order to understand this video you will need to already
+        know something about working with Unity3D. There are numerous
+        tutorials online for that.<br>
+      </font></p>
+    <img alt="" src="img2.png" height="453" width="319"><br>
+    <p><font face="Helvetica, Arial, sans-serif">However, in a nutshell:
+        The SteamVR camera rig shown above in the Unity scene hierarchy
+        as [CameraRig] consists of 2 Controllers (the wands of the HTC
+        Vive) and a Camera (head). There are two Geometry Objects called
+        Model that are attached to left and right controllers. When made
+        active they show the Vive's controllers in the virtual world. If
+        you choose to make then inactive they will simply not appear.
+        That said, any object attached as a child of one of the
+        controllers will go along for the ride. So for example you could
+        attach a 3D model of a hand to one of the controller and the
+        hand will track with the controllers in the virtual world. Note,
+        in the example above there is a Geometry Object called Grabber.
+        This is simply the orange sphere in the demo. Associated with it
+        is a Unity collider and a Grabber script. As explained in more
+        detail below, this essentially turns the Grabber object into
+        something that you can use to pick up and manipulate virtual
+        objects. Whenever you intersect the sphere with an object you
+        are essentially in range to pick that object up. <br>
+      </font></p>
+    <p><font face="Helvetica, Arial, sans-serif">If you want to find out
+        how to access the various buttons on the Vive's controllers keep
+        reading- there is a script called Control that gives examples of
+        the code you need to make that work.<br>
+      </font></p>
+    <p><font face="Helvetica, Arial, sans-serif">Lastly there is the
+        Camera (head). This is your tracked head in the virtual
+        environment. If you attached a Geometry Object to the head it
+        will also go along for the ride. For example, if you wanted to
+        implement a heads-up display with text in it, you would attach
+        that to the head.<br>
+      </font></p>
+    <p><font face="Helvetica, Arial, sans-serif">Notice there is also a
+        LS360VRCameraRig. This is NOT part of the standard SteamVR
+        package. This is a separate add-on that allows you to capture
+        360 images of your VR environment. This is discussed further
+        below.<br>
+      </font></p>
+    <p><font face="Helvetica, Arial, sans-serif">In this VR Template
+        there are three scripts: Navigate, Control and Grabber. The
+        Navigate and Control scripts can be found as components of
+        [Camera Rig]. Navigate is what does the movement in the VR
+        world. The demo is setup to use the left wand controller. You
+        can easily modify it to use the right controller. By default
+        navigation is constrained to the horizontal plane. If you want
+        to also be able to move up and down simply uncheck the box that
+        says: Disable Vertical Motion. You can also change the maximum
+        navigation speed by changing the value in the box: Walk Speed.
+        The default is 10.<br>
+      </font> </p>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p><font face="Helvetica, Arial, sans-serif">The Control script does
+        nothing useful except give you sample code that demonstrates how
+        to use all the wand controller buttons. When you try pressing
+        them all it does is print something to the console window. It is
+        best to understand the code to apply it to your own application
+        needs.<br>
+      </font> </p>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p><font face="Helvetica, Arial, sans-serif">The grabber script is
+        what does the object manipulation. In the demo it is added to a
+        Grabber game object (a sphere) that is parented under the Right
+        controller. You can modify this to use your own game object as
+        well as configure it to use a different wand, etc. The way the
+        grabber script works is that whenever your sphere is colliding
+        with an object it takes that object and parents it under the
+        wand. That way when you move your wand the grabbed object comes
+        along for the ride. When you finally let go of the object, the
+        grabber script returns that object to its original hierarchy in
+        the Unity scene.<br>
+      </font></p>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p><font face="Helvetica, Arial, sans-serif">Last but not least
+        there is a 360VRCameraRig parented to [Camera Rig]. This is what
+        does the 360 image capture. It has its own script which you can
+        examine if you wish under the 360VRCameraCaptureRig asset
+        folder. Here are <a href="CaptureInstructions.pdf">instructions
+        </a>that came with this asset. Here is the original <a
+          href="https://www.assetstore.unity3d.com/en/#%21/content/53264">source
+
+
+
+
+        </a>of the asset.&nbsp; I modified this script slightly so that
+        it would place its camera at the same location of your tracked
+        head so that all snapshots are taken from your point of view.<br>
+      </font></p>
+    <h3><font face="Helvetica, Arial, sans-serif">Lastly<br>
+      </font> </h3>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p><font face="Helvetica, Arial, sans-serif">All the other objects
+        in the world can be modified, incorporated into other codes, or
+        discarded at will. If you want to write your own navigation or
+        grabber script feel free to do so. This world is just meant to
+        get you started. A good way to start is to simply put in some 3D
+        objects of your own and walking around them or pick them up. <br>
+      </font> </p>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+    <p><font face="Helvetica, Arial, sans-serif">Good luck!<br>
+      </font> </p>
+    <font face="Helvetica, Arial, sans-serif"> </font>
+  </body>
+</html>

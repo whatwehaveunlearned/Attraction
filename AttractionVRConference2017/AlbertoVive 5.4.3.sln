@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbertoVive 5.4.3", "AlbertoVive 5.4.3.csproj", "{E4090709-EAD5-FAE3-6D15-1B7D5930C752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbertoVive 5.4.3.Plugins", "AlbertoVive 5.4.3.Plugins.csproj", "{E3D95DA7-F967-8E2B-34AA-86CE676673A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbertoVive 5.4.3.Editor", "AlbertoVive 5.4.3.Editor.csproj", "{64AB2563-E5C3-5431-7B55-88B22ABFFF3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4090709-EAD5-FAE3-6D15-1B7D5930C752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4090709-EAD5-FAE3-6D15-1B7D5930C752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4090709-EAD5-FAE3-6D15-1B7D5930C752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4090709-EAD5-FAE3-6D15-1B7D5930C752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D95DA7-F967-8E2B-34AA-86CE676673A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D95DA7-F967-8E2B-34AA-86CE676673A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D95DA7-F967-8E2B-34AA-86CE676673A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D95DA7-F967-8E2B-34AA-86CE676673A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AB2563-E5C3-5431-7B55-88B22ABFFF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AB2563-E5C3-5431-7B55-88B22ABFFF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AB2563-E5C3-5431-7B55-88B22ABFFF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AB2563-E5C3-5431-7B55-88B22ABFFF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

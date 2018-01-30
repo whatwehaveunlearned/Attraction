@@ -1,0 +1,107 @@
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEditor.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.UI.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Mono.Cecil.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Unity.DataContract.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Unity.CecilTools.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.xml
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEditor.xml
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.UI.xml
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\ICS691\Alberto Gonzalez\AlbertoViveInViveComputer\AlbertoViveInViveComputer\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alberto\Google Drive\Unity Projects\AlbertoViveInViveComputer (1)\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Alberto\Desktop\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alberto\Desktop\AlbertoVive\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Alberto\Desktop\AlbertoVive\Temp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alberto\Desktop\AlbertoVive 5.4.3\obj\Debug\Assembly-CSharp-firstpass.pdb
